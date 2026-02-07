@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
+    WELCOME
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <header>
-    <h1>Your Name</h1>
-    <p>Web Developer | Designer | Creator</p>
+    <h1>LOGESHWARAN</h1>
+    <p>Psychology student | Writer | Content Creator</p>
 </header>
 
 <section id="about">
@@ -25,7 +25,8 @@
 
 <section id="contact">
     <h2>Contact Me</h2>
-    <p>Email: <a href="mailtologeshwar@gmail.com">yourmail@gmail.com</a></p>
+    <p>Email: <a href="mailtologeshwar@gmail.com">mailtologeshwar
+        @gmail.com</a></p>
 </section>
 
 <footer>
